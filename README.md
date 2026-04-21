@@ -26,3 +26,9 @@ pip install -r requirements.txt
 
 2. Run:
 python main.py
+
+## 📸 Output Example
+
+The model classifies network behavior into normal and anomalous activity.
+
+![Output](output.png)
